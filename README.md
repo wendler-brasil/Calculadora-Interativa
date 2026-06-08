@@ -23,15 +23,7 @@ Scanner (java.util.Scanner)
 Classe Math (java.lang.Math)
 📂 Estrutura do Projeto
 Calculadora_Interativa.java
-▶️ Como Executar
-1. Clone o repositório
-git clone https://github.com/seu-usuario/calculadora-interativa.git
-2. Acesse a pasta do projeto
-cd calculadora-interativa
-3. Compile o programa
-javac Calculadora_Interativa.java
-4. Execute o programa
-java Calculadora_Interativa
+
 💡 Exemplo de Uso
 Calculadora Interativa
 
